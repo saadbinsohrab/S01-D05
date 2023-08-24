@@ -183,6 +183,6 @@ input[type="text"],[type="email"] , textarea {
 }
 
 .fc {
-    max width: 50%;
+    max-width: 50%;
 }
 
