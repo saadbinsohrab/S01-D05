@@ -185,4 +185,21 @@ input[type="text"],[type="email"] , textarea {
 .fc {
     max-width: 50%;
 }
+ 
+/* -------------------moja------------------------- */
 
+.moja {
+    cursor: progress;
+}
+
+.goja {
+    cursor: pointer;
+}
+
+.khoja {
+    cursor:not-allowed;
+} 
+
+.foja {
+    cursor: url("../images/icons/twitter.png"), auto;
+}
